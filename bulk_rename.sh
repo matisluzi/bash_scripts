@@ -1,3 +1,5 @@
+# find and replace in all files inside directory
+
 clear
 echo "\n---   BULK RENAMER   ---\n\n\n"
 read -p "Directory of files: " dir
